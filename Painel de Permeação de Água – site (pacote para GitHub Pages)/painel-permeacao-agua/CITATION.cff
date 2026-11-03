@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Se você usar este software, por favor cite-o como abaixo. / If you use this software, please cite it as below."
+title: "Painel de Permeação de Água: software para aquisição automática de massa e cálculo de fluxo, permeância e permeabilidade em ensaios de permeação de água"
+version: "1.0"
+date-released: "2026-11-03"
+authors:
+  - family-names: "Pirola"
+    given-names: "Ariele dos Santos"
+    email: "arielepirola@gmail.com"
+# doi: "10.5281/zenodo.xxxxxxx"   <- descomente e preencha depois de gerar o DOI no Zenodo
