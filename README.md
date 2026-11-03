@@ -76,27 +76,7 @@ A balança guarda essas configurações mesmo depois de desligada.
 
 ---
 
-## 5. Colocar o site no ar com o seu nome (GitHub Pages, gratuito)
-
-O endereço fica, por exemplo, `https://seu-usuario.github.io/painel-permeacao-agua`, e qualquer pessoa do grupo acessa de qualquer lugar.
-
-1. Crie uma conta em <https://github.com>. Use um nome de usuário que te identifique (ex.: `arielepirola`).
-2. Clique em **+ → New repository**, coloque o nome **`painel-permeacao-agua`**, marque **Public** e clique em **Create repository**.
-3. Na página do repositório, clique em **uploading an existing file**. Arraste **todo o conteúdo** desta pasta (`index.html`, `style.css` e as pastas `js` e `vendor`, além dos outros arquivos) e clique em **Commit changes**.
-4. Vá em **Settings → Pages**. Em "Branch", escolha **main** e **/(root)** e clique em **Save**.
-5. Em 1 a 2 minutos aparece o link do site no topo dessa página. Esse é o endereço para passar ao grupo.
-6. **Opcional, para ter um DOI citável:** entre em <https://zenodo.org> com a conta do GitHub, ative o repositório, crie uma **Release** `v1.0` no GitHub e o Zenodo gera um DOI. Coloque o DOI em `js/autoria.js` (campo `link`) e em `CITATION.cff`.
-
-Para atualizar o site depois, basta subir os arquivos novos no mesmo repositório.
-
-> **Licença:** pedir citação é norma acadêmica. Se quiser que o crédito à autora seja uma exigência formal, escolha uma licença como **CC BY 4.0** ou **MIT** no repositório.
-
-### Usar sem internet
-O site também funciona **sem internet**: copie a pasta para o notebook e abra o `index.html` no Chrome ou no Edge. Só as fontes ficam diferentes.
-
----
-
-## 6. Fórmulas
+## 5. Fórmulas
 
 | Grandeza | Fórmula | Unidade |
 |---|---|---|
@@ -108,7 +88,7 @@ O site também funciona **sem internet**: copie a pasta para o notebook e abra o
 
 O tempo usado é o real, medido pelo relógio do computador.
 
-## 7. Arquivos
+## 6. Arquivos
 
 ```
 index.html        ← página
